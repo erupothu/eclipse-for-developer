@@ -1,0 +1,66 @@
+## Customise Eclpse commands
+windows -> preferences -> General -> keys -> search for item (ex: project explorer) + Binding -> add shortcut (ex: ctrl+shift+alt+P to navigate project explorer)
+
+
+## Text Editing
+
+ctrl+D - Delete line
+shift+ctrl+X - To upper case
+shift+ctrl+Y - To lower case
+shift+ctrl+/ - collapse all methods
+shift+ctrl+* - expand all methods
+ctrl+shift+o - import packages
+alt+DOWN - Move lines down
+alt+UP - Move lines up
+HOME - Line start
+ctrl+END - Text end
+END - Line end
+ctrl+HOME - Text start
+alt+ctrl+J - Join lines
+
+## Text Selection
+shift+alt+LEFT - Select previous element
+shift+ctrl+RIGHT - Select next word
+shift+END - Select line end
+shift+alt+A - Toggle block selection
+shift+alt+RIGHT - Select next element
+shift+ctrl+LEFT - Select previous word
+shift+HOME - Select line start
+
+## Java Source Editing
+ctrl+alt+J - Java Doc comment
+ctrl+shift+F - format
+
+
+Java Source Navigation
+ctrl+alt+shift+P = navigate to project explorer
+ctrl+alt_shift+C = navigate to Console
+ctrl+TAB - next tab
+ctrl+shift+TAB - prvious tab
+
+
+Debug
+select_text+ctrl+shift+I - check the value in the variable 
+
+Search
+ctrl+H - search
+ctrl+K - search next word
+ctrl+shift+K  - search prvious word
+ctrl+F - find
+ctrl+shift+R - search for class file
+
+
+Run
+
+
+Tasks View
+
+
+Debug Memory View
+
+Views
+
+
+Misc I
+
+
